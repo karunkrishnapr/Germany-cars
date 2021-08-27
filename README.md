@@ -3,7 +3,10 @@
 #Dataset scraped from AutoScout24 with information about new and used cars.
 #AutoScout24 is one of the largest Europe's car market for new and used cars. We've collected car data from 2011 to 2021.
 
+
 #-----------------------CONCLUSION-----------------------------------------------#
+
+
 #AutoScout24 is one of the largest Europe's car market for new and used cars. We've collected car data from 2011 to 2021.
 
 #The minimum and maximum prices for a car are 1100 and 1199900 respectively and the difference in price range is 1198800.
